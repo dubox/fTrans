@@ -1,0 +1,3 @@
+FROM registry.cn-beijing.aliyuncs.com/banli/f-trans:base
+
+COPY . /data
